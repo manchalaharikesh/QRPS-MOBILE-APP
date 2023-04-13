@@ -1,0 +1,44 @@
+{
+    "Bombay Chat": {
+        "item1": {
+            "name": "Pani Puri",
+            "price": 20
+        },
+        "item2": {
+            "name": "Ragada Chat",
+            "price": 35
+        },
+        "item3": {
+            "name": "Samosa Chat",
+            "price": 35
+        }
+    },
+    "Chill Zone": {
+        "item1": {
+            "name": "Ice Cream",
+            "price": 80
+        },
+        "item2": {
+            "name": "Coca Cola",
+            "price": 20
+        },
+        "item3": {
+            "name": "Pastry",
+            "price": 40
+        }
+    },
+    "Fluffy Frankie": {
+        "item1": {
+            "name": "Egg Roll",
+            "price": 80
+        },
+        "item2": {
+            "name": "Veg Roll",
+            "price": 60
+        },
+        "item3": {
+            "name": "Paneer Roll",
+            "price": 100
+        }
+    }
+}

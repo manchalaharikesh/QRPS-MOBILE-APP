@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658442891969",
+    "project_id": "qrps-652d2",
+    "storage_bucket": "qrps-652d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658442891969:android:fe3bf2dc1c42268dfb9a40",
+        "android_client_info": {
+          "package_name": "com.qrps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658442891969-c0icg97tu8ebtk8f98hd302nph0vbd4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qrps",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "658442891969-8u1qtcgmft2f8upr86age8grsoe99iql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7o3e77wE6_9P9B1tzcFvBGu-rMRj85iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658442891969-8u1qtcgmft2f8upr86age8grsoe99iql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

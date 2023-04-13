@@ -1,0 +1,17 @@
+{
+    "stall1": {
+        "stallName": "Bombay Chat",
+        "stallId": "s1",
+        "category": "Snacks"
+    },
+    "stall2": {
+        "stallName": "Fluffy Frankie",
+        "stallId": "s2",
+        "category": "Snacks"
+    },
+    "stall3": {
+        "stallName": "Chill Zone",
+        "stallId": "s3",
+        "category": "Bakery"
+    }
+}
